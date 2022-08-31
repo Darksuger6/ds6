@@ -1,8 +1,6 @@
 using namespace std;
 #include<iostream>
 
-//程序流程结构
-//if
 int 可改main1()
 {	int score = 0;
 	cout << "请输入您的分数" << endl;
